@@ -27,6 +27,8 @@ Usage
 ```bash
 git clone https://github.com/RajHiremath-510/decoder3to8_openlane.git
 
+[![Refer to the video for OpenLane installation](https://img.youtube.com/vi/nBz9oFpbTv4/maxresdefault.jpg)](https://youtu.be/nBz9oFpbTv4 "Refer to the video for OpenLane installation")
+
 
 
 
