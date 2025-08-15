@@ -1,0 +1,21 @@
+
+61. Printing statistics.
+
+=== decoder3to8 ===
+
+   Number of wires:                  6
+   Number of wire bits:             15
+   Number of public wires:           2
+   Number of public wire bits:      11
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 12
+     sky130_fd_sc_hd__and3_2         1
+     sky130_fd_sc_hd__and3b_2        3
+     sky130_fd_sc_hd__buf_1          4
+     sky130_fd_sc_hd__nor3_2         1
+     sky130_fd_sc_hd__nor3b_2        3
+
+   Chip area for module '\decoder3to8': 100.096000
+
