@@ -27,3 +27,10 @@ Usage
 ```bash
 git clone https://github.com/RajHiremath-510/decoder3to8_openlane.git
 
+
+When you run this, your README will have:  
+- The `git clone` command  
+- The clickable **YouTube link** for installation  
+
+If you want, I can also make the README show the **video thumbnail** so people can click the image to watch the video directly. That would make it look more professional.
+
