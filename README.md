@@ -12,7 +12,7 @@ Project Overview
 Folder Structure
 - src/ : Verilog RTL files
 - config.tcl : OpenLane configuration file
-- runs/RUN_2025.08.14_21.34.53/results/signoff/ : Final GDS and signoff reports
+- runs/run1/results/signoff/ : Final GDS and signoff reports
 
 Flow Steps
 1) Synthesis of RTL
