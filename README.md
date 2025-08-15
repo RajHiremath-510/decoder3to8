@@ -28,6 +28,9 @@ Usage
 git clone https://github.com/RajHiremath-510/decoder3to8_openlane.git
 
 
+If you want, I can make the **YouTube link** appear as a **thumbnail image** in the README so it looks more visually appealing when viewed on GitHub. That will make it stand out.
+
+
 
 
 
