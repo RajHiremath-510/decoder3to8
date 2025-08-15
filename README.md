@@ -23,16 +23,10 @@ Flow Steps
 6) DRC/LVS verification
 7) Export of final GDS layout
 
-Usage
-```bash
 git clone https://github.com/RajHiremath-510/decoder3to8_openlane.git
 
-<p align="center">
-  <a href="https://youtu.be/nBz9oFpbTv4" title="Refer to the video for OpenLane installation">
-    <img src="https://img.youtube.com/vi/nBz9oFpbTv4/maxresdefault.jpg" alt="Refer to the video for OpenLane installation">
-  </a>
-</p>
-
+Refer to the video for OpenLane installation
+https://youtu.be/nBz9oFpbTv4?si=MG42k84mPf74VmUy
 
 
 
