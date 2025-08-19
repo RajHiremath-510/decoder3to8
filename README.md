@@ -23,6 +23,14 @@ Flow Steps
 6) DRC/LVS verification
 7) Export of final GDS layout
 
+## Final Layout
+- Open **`decoder3to8.gds`** in KLayout for visualization  
+- Open **`decoder3to8.magic.gds`** in Magic for editing/debug  
+
+**GDSII Snapshot:**  
+
+![decoder3to8 GDS Layout](decoder3to8.gds.png)
+
 git clone https://github.com/RajHiremath-510/decoder3to8_openlane.git
 
 Refer to the video for OpenLane installation
